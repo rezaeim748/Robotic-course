@@ -1,9 +1,0 @@
-[submodule "Project1"]
-	path = Project1
-	url = https://github.com/rezaeim748/Robot-Rotation-Exercise.git
-[submodule "Project2"]
-	path = Project2
-	url = https://github.com/rezaeim748/Robot_PID_Control_Exercise.git
-[submodule "Project3"]
-	path = Project3
-	url = https://github.com/rezaeim748/Humanoid-Following-and-Maze-Navigation.git
