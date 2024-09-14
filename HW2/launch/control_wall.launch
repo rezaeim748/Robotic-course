@@ -1,0 +1,12 @@
+<launch>
+
+    <node pkg="hw3" type="follow_wall2.py" name="follow_wall" output="screen" ></node>
+
+    <include file="$(find hw3)/launch/turtlebot3_big_wall.launch">        
+    </include>
+
+
+    <include file="$(find turtlebot3_gazebo)/launch/turtlebot3_gazebo_rviz.launch"/>
+    
+   
+</launch>
