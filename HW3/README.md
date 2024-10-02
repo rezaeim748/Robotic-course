@@ -58,6 +58,6 @@ The robot is placed inside a maze and must navigate through it by following the 
 ---
 
 ## Video Demonstration
-[Watch the video](https://github.com/user-attachments/assets/78ab2047-2c76-4a35-97f5-f00f4b9e5453)
+https://github.com/user-attachments/assets/78ab2047-2c76-4a35-97f5-f00f4b9e5453
 
 
