@@ -58,5 +58,9 @@ The robot is placed inside a maze and must navigate through it by following the 
 ---
 
 ## Video Demonstration
-https://github.com/user-attachments/assets/78ab2047-2c76-4a35-97f5-f00f4b9e5453
+<video autoplay loop controls>
+  <source src="https://github.com/user-attachments/assets/78ab2047-2c76-4a35-97f5-f00f4b9e5453" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
