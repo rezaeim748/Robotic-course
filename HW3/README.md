@@ -58,4 +58,5 @@ The robot is placed inside a maze and must navigate through it by following the 
 ---
 
 ## Video Demonstration
-[Click here to watch the video demonstration](videos/demo.mp4) of the robot’s performance.
+https://github.com/user-attachments/assets/78ab2047-2c76-4a35-97f5-f00f4b9e5453
+
